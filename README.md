@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="Lyra Addon" width="180" />
+  <img src="assets/icon.png" alt="Lyra Addon" width="180" />
 </p>
 
 <h1 align="center">Lyra Addon</h1>
