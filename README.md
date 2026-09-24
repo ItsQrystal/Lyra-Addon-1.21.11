@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" alt="Lyra Addon" width="180" />
+  <img src="https://cdn.discordapp.com/attachments/1215320296391835708/1552640610106736640/ClientHub.png?ex=6ab658c0&is=6ab50740&hm=75fcc622e9f4a4d0627e6c8bbd8669b17b3d5febf0a6e1b19cf8c4aa5dbf551d&" alt="clienthub" width="180" />
 </p>
 
 <h1 align="center">Lyra Addon</h1>
