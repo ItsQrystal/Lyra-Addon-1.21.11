@@ -23,7 +23,6 @@
 - Put the jar in your `.minecraft/mods` folder with Meteor Client installed.
 - This version is for Minecraft 1.21.11.
 
-> This fork was updated for 1.21.11 by QrystalGG. Original Lyra credit remains with the original authors.
 
 ## Modules
 
@@ -106,7 +105,6 @@ Silently teleports you to a block and breaks it.
 ## Uwuifier
 Uwuifies your chat messages.
 
-This section was based on the original project work and kept for compatibility.
 
 <hr />
 
