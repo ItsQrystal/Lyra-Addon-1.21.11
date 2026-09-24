@@ -113,7 +113,3 @@ Uwuifies your chat messages.
 - Updated for 1.21.11 by QrystalGG.
 - Client hub: [https://discord.gg/uXJTM6Q5Gp](https://discord.gg/uXJTM6Q5Gp)
 
-# License
-This project is open to use and modification with credit.
-
-See [LICENSE](LICENSE) for details.
